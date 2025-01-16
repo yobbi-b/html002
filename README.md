@@ -13,6 +13,6 @@ This is an intro on html and css briefly
 [mit]
 https://github.com/yobbi-b/html002/commit/84e547ff61649282d59f112d6e0ddbdd96084002
 ## contact
-[email](yobbiebrian@gmail.com)
+[email] (yobbiebrian@gmail.com)
 
-[phone number](0112169623) 
+[phone number] (0112169623) 
